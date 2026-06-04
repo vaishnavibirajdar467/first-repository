@@ -1,0 +1,2 @@
+This is my second day of GitHub practice.
+I am learning Git and GitHub.
